@@ -4,7 +4,8 @@
 
 
 
-This work is part of "Data Analysis with Python" online course by IBM powered by coursera
+This work is part of "Data Analysis with Python" online course by IBM powered by coursera.
+
 The processes included in this work constitute of:
 - Dataset Importing 
 - Data Wrangling
